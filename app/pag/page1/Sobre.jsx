@@ -69,10 +69,10 @@ export default Sobre = function () {
                 </Text>
             </View>
             <View style={style.box2}>
-                <Link href="/pag/2/Viagens" style={style.botao}>
+                <Link href="/pag/page2/Viagens" style={style.botao}>
                     <Text>Viagens</Text>
                 </Link>
-                <Link href="/pag/3/Filme" style={style.botao}>
+                <Link href="/pag/page3/Filme" style={style.botao}>
                     <Text >Filme</Text>
                 </Link>
             </View>
