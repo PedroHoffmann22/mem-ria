@@ -27,6 +27,9 @@ const App = () => {
 <Link href="/pag/page1/Sobre">
 <Text>Sobre Mim</Text>
 </Link>
+<Link href="/camera">
+<Text>Camera</Text>
+</Link>
 </View>
     )
 }
