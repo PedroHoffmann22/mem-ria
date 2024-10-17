@@ -30,6 +30,9 @@ const App = () => {
 <Link href="/camera">
 <Text>Camera</Text>
 </Link>
+<Link href="/memorias">
+<Text>Memória</Text>
+</Link>
 </View>
     )
 }
